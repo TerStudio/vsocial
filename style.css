@@ -1,0 +1,40 @@
+.v-social__wrapper {
+    display: inline-block;
+}
+
+.v-social__wrapper a {
+    transition: all 0.5s ease-in-out;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+}
+
+.v-social__title {
+    font-family: inherit;
+}
+
+.v-social__item {
+    display: block;
+    float: left;
+    padding: 0 5px;
+}
+
+.v-social__item-first {
+    padding: 0 5px 0 0;
+}
+
+.v-social__item-last {
+    padding: 0 0 0 5px;
+}
+
+.v-social__item a {
+    display: block;
+    position: relative;
+
+}
+
+.v-social__item a::before {
+    position: absolute;
+    content: '';
+    background-repeat: no-repeat;
+    background-size: cover;
+}

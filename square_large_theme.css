@@ -1,0 +1,41 @@
+.v-social__item a {
+    width: 50px;
+    height: 50px;
+    opacity: 0.8;
+}
+
+.v-social__item a:hover {
+    opacity: 1;
+}
+
+
+.v-social__item a::before {
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+
+.v-social__wrapper .facebook a::before {
+    background-image: url('images/square/facebook.svg');
+}
+
+.v-social__wrapper .vkontakte a::before {
+    background-image: url('images/square/vk.svg');
+}
+
+.v-social__wrapper .twitter a::before {
+    background-image: url('images/square/twitter.svg');
+}
+
+.v-social__wrapper .google a::before {
+    background-image: url('images/square/google-plus.svg');
+}
+
+.v-social__wrapper .linkedin a::before {
+    background-image: url('images/square/linkedin.svg');
+}
+
+.v-social__wrapper .pinterest a::before {
+    background-image: url('images/square/pinterest.svg');
+}
