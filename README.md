@@ -120,6 +120,7 @@ let mediaPanel = new SocialClass('v-social', {
 
 <img src="http://terina-studio.com/sites/default/files/images/vsocial/dark_custom.png" alt="VSocial media panel Dark Custom Theme example" />
 
+
 ### Meta properties
 
 For proper work of VSocial it is highly recommended to use proper og and twitter (including twitter:card) properties in head block of he website
