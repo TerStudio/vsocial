@@ -15,7 +15,7 @@ _"V Social" social media panels (share panels) use only the links provided by th
 - LinkedIn
 - Pinterest
 - Twitter
-- Google Plus.
+- Google Plus
 
 * VSocial does not require jQuery. Easy to use with webpack.
 * Opens a popup share-window
