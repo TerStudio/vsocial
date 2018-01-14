@@ -29,7 +29,7 @@ _"V Social" social media panels (share panels) use only the links provided by th
 npm install vsocial
 ```
 
-#####Usage
+##### Usage
 
 Just import Class (for example in the js code that you bundle later with webpack):
 
