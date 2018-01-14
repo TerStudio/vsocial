@@ -92,10 +92,33 @@ let mediaPanel = new SocialClass('v-social', {
 
 <img src="https://terina-studio.com/sites/default/files/images/vsocial/square_small.png" alt="VSocial media panel Square small Theme example" />
 
-##### Square large themes
+##### Square large theme
 
 <img src="http://terina-studio.com/sites/default/files/images/vsocial/square_large.png" alt="VSocial media panel Square Large Theme example" />
 
+##### Sand large theme
+
+<img src="http://terina-studio.com/sites/default/files/images/vsocial/sand_large.png" alt="VSocial media panel sand Large Theme example" />
+
+##### Sand small theme
+
+<img src="http://terina-studio.com/sites/default/files/images/vsocial/sand_small.png" alt="VSocial media panel sand small Theme example" />
+
+##### Gray large theme
+
+<img src="http://terina-studio.com/sites/default/files/images/vsocial/gray_large.png" alt="VSocial media panel Gray Large Theme example" />
+
+##### Gray small theme
+
+<img src="http://terina-studio.com/sites/default/files/images/vsocial/gray_small.png" alt="VSocial media panel Gray small Theme example" />
+
+##### White custom theme (example): here you choose your own colors
+
+<img src="http://terina-studio.com/sites/default/files/images/vsocial/white_custom.png" alt="VSocial media panel White Custom Theme example" />
+
+##### Dark custom theme (example): here you choose your own colors
+
+<img src="http://terina-studio.com/sites/default/files/images/vsocial/dark_custom.png" alt="VSocial media panel Dark Custom Theme example" />
 
 ### Meta properties
 
@@ -106,7 +129,7 @@ For proper work of VSocial it is highly recommended to use proper og and twitter
 Option | Type | Default | Description
 ------ | ---- | ------- | -----------
 buttons | object | true | Enables and disables different social networks
-pinterestImageSelector | array | [] | Defines the classes of images to be used for Pinterest (<img src="" class="first__image-class">). You can specify several classes - in this case the system will choose the first image that matches the selector
+pinterestImageSelector | array | [] | Defines the classes of images to be used for Pinterest ('<img src="" class="first__image-class">'). You can specify several classes - in this case the system will choose the first image that matches the selector
 twitterHash | string | '' | Hashtags to be added to twitter
 title | string | '' | Title of the share panel
 titleFontSize | integer | 24 | Font-size of title of the panel
