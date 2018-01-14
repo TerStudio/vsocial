@@ -84,7 +84,18 @@ let mediaPanel = new SocialClass('v-social', {
 
 <img src="https://terina-studio.com/sites/default/files/images/vsocial/simple_small.png" alt="VSocial media panel Simple Small Theme example" />
 
-TO BE ADDED!
+##### Simple large theme
+
+<img src="https://terina-studio.com/sites/default/files/images/vsocial/simple_large.png" alt="VSocial media panel Simple Large Theme example" />
+
+##### Square small theme
+
+<img src="https://terina-studio.com/sites/default/files/images/vsocial/square_small.png" alt="VSocial media panel Square small Theme example" />
+
+##### Square large themes
+
+<img src="http://terina-studio.com/sites/default/files/images/vsocial/square_large.png" alt="VSocial media panel Square Large Theme example" />
+
 
 ### Meta properties
 
