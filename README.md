@@ -129,7 +129,7 @@ For proper work of VSocial it is highly recommended to use proper og and twitter
 Option | Type | Default | Description
 ------ | ---- | ------- | -----------
 buttons | object | true | Enables and disables different social networks
-pinterestImageSelector | array | [] | Defines the classes of images to be used for Pinterest ('<img src="" class="first__image-class">'). You can specify several classes - in this case the system will choose the first image that matches the selector
+pinterestImageSelector | array | [] | Defines the classes of images to be used for Pinterest (img src="" class="first__image-class"). You can specify several classes - in this case the system will choose the first image that matches the selector
 twitterHash | string | '' | Hashtags to be added to twitter
 title | string | '' | Title of the share panel
 titleFontSize | integer | 24 | Font-size of title of the panel
